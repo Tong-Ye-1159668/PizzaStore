@@ -24,3 +24,10 @@ C:\Users\likes\Desktop\MSA\Software\Week6\PizzaStore\PizzaStore\obj\Debug\net8.0
 C:\Users\likes\Desktop\MSA\Software\Week6\PizzaStore\PizzaStore\obj\Debug\net8.0\PizzaStore.pdb
 C:\Users\likes\Desktop\MSA\Software\Week6\PizzaStore\PizzaStore\obj\Debug\net8.0\PizzaStore.genruntimeconfig.cache
 C:\Users\likes\Desktop\MSA\Software\Week6\PizzaStore\PizzaStore\obj\Debug\net8.0\ref\PizzaStore.dll
+C:\Users\likes\Desktop\MSA\Software\Week6\PizzaStore\PizzaStore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\likes\Desktop\MSA\Software\Week6\PizzaStore\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\likes\Desktop\MSA\Software\Week6\PizzaStore\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\likes\Desktop\MSA\Software\Week6\PizzaStore\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\likes\Desktop\MSA\Software\Week6\PizzaStore\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\likes\Desktop\MSA\Software\Week6\PizzaStore\PizzaStore\obj\Debug\net8.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\likes\Desktop\MSA\Software\Week6\PizzaStore\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.Up2Date
